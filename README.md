@@ -1,1 +1,5 @@
 # flask
+
+```
+pip install flask
+```
